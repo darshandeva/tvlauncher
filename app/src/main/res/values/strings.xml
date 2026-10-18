@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Home</string>
+    <string name="hint_empty">Hold OK on any app to add it to Favorites</string>
+</resources>
